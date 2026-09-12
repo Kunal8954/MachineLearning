@@ -1,0 +1,6 @@
+﻿language,difficulty,popularity,use_cases,year_created,paradigm,typing
+Python,1,57.9,AI; Data Science; Web Development,1991,Multi-paradigm,Dynamic
+JavaScript,2,62.3,Web Development; Front-end; Back-end,1995,Multi-paradigm,Dynamic
+Java,3,30,Enterprise; Android; Backend,1995,Object-oriented,Static
+C++,5,23.5,Game Development; Systems; Embedded,1985,Multi-paradigm,Static
+C#,3,27,Game Development; Desktop; Web,2000,Object-oriented,Static
